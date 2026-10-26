@@ -7,7 +7,7 @@ description: "Reproduire fidèlement le style GiscardPunk, un rétrofuturisme fr
 
 Ce skill sert à produire des visuels qui ressemblent à ceux du compte Instagram @giscardpunk. Le style n'est pas un design moderne « rétro » : c'est la culture graphique et photographique française des années 1970-80, vue comme une archive d'une France uchronique où l'ère Giscard aurait pris une autre direction technologique.
 
-Les mesures chiffrées sont dans `references/palette-and-stats.md`. Consulte le compte Instagram @giscardpunk pour voir le style avant de produire quoi que ce soit : une description écrite ne remplace pas l'œil.
+Les mesures chiffrées sont dans `references/palette-and-stats.md`. Les planches de contact et 24 visuels de référence sont dans `references/`. Ouvre-les avant de produire quoi que ce soit : une description écrite ne remplace pas l'œil.
 
 ## 1. Règle de fidélité
 
@@ -133,7 +133,7 @@ Français et anglais, à réutiliser tels quels :
 
 1. Clarifie le format de sortie : visuel unique, carrousel, maquette, prompt d'image, layout.
 2. Choisis la famille visuelle (section 3) et la dominante palette (section 4).
-3. Ouvre quelques publications du compte @giscardpunk qui correspondent à la famille choisie et compare-les à ton brief.
+3. Ouvre les visuels de référence les plus proches dans `references/images/` et compare-les à ton brief.
 4. Écris le brief (sujet, cadrage, palette, typo, grain, éléments à éviter) avant de générer ou de dessiner.
 5. Produis le visuel. Pour une maquette, garde des calques natifs si l'outil le permet.
 6. Vérifie avec la checklist ci-dessous et corrige avant de livrer.
@@ -147,10 +147,12 @@ Français et anglais, à réutiliser tels quels :
 - [ ] Grain ou trame visible, pas de rendu lisse.
 - [ ] Aucun élément contemporain (interface, logo actuel, vêtement récent).
 - [ ] Cadrage monumental ou mise en page de magazine.
-- [ ] Comparé à au moins deux publications du compte @giscardpunk de la même famille.
+- [ ] Comparé à au moins deux références de `references/images/`.
 
 ## 12. Ressources et limites
 
 - `references/palette-and-stats.md` : mesures complètes de palette et de tonalité.
-- Pour voir le style, consulte le compte Instagram @giscardpunk (https://www.instagram.com/giscardpunk/). Les visuels appartiennent à leurs auteurs. Ils servent à étudier le style. Ne réutilise pas les scans originaux dans un livrable sans droits, et précise leur origine si tu les montres.
+- `references/contact-sheet-1.jpg`, `contact-sheet-2.jpg`, `contact-sheet-3.jpg` : 144 visuels échantillonnés sur le corpus, pour voir la diversité d'un coup.
+- `references/images/ref-*.jpg` : 24 visuels de référence en 900 px, choisis pour couvrir les cinq familles.
+- Les visuels viennent du compte Instagram @giscardpunk (https://www.instagram.com/giscardpunk/). Ils appartiennent à leurs auteurs. Ils servent à étudier le style. Ne réutilise pas les scans originaux dans un livrable sans droits, et précise leur origine si tu les montres.
 - Le compte présente un univers imaginaire (uchronie). Ne présente pas ses visuels comme des faits historiques.
